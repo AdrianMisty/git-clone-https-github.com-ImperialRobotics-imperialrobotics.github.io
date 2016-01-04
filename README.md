@@ -1,2 +1,15 @@
 # git-clone-https-github.com-ImperialRobotics-imperialrobotics.github.io
-attempt to make a blog during the break
+---
+layout: post
+title: "post title"
+description: ""
+category: ""
+tags: []
+---
+{ %include JB/setup% }
+
+git add *
+
+git commit -m "maybe this works?"
+
+git push
